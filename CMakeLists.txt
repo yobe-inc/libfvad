@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.22.1)
 project(libfvad VERSION 1.0.1 LANGUAGES C)
 
 option(ENABLE_EXAMPLES "build the fvadwav example program; requires libsndfile" OFF)
